@@ -41,13 +41,6 @@
 
 ---
 
-##  github地址
-
-github：https://github.com/forguos/wedding
-
-个人博客：https://blog.csdn.net/WEIGUO19951107
-
-个人站点：https://www.forguo.com
 
 ---
 
